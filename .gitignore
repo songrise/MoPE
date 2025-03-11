@@ -1,0 +1,7 @@
+nohup.out
+__pycache__/
+*.pyc
+*.pyo
+
+*.npy
+*.npz
