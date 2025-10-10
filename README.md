@@ -1,5 +1,5 @@
-# MoPE: Parameter-Efficient and Scalable Multimodal Fusion via Mixture of Prompt Experts｜ [Arxiv](https://arxiv.org/abs/2403.10568)
-Official Implementation of MoPE: Parameter-Efficient and Scalable Multimodal Fusion via Mixture of Prompt Experts
+# MoPE: Parameter-Efficient and Scalable Multimodal Fusion via Mixture of Prompt Experts (T-MM)｜ [Arxiv](https://arxiv.org/abs/2403.10568)
+Official Implementation of MoPE: Parameter-Efficient and Scalable Multimodal Fusion via Mixture of Prompt Experts (T-MM, 2025)
 
 ![fig_overview-v2](fig_overview.jpg)
 
@@ -8,7 +8,7 @@ TL;DR: MoPE is a prompt-based method to fuse unimodal pretrained models (e.g., V
  The key innovation of MoPE is that we decompose long prompts into short and specialized prompt experts, which are routed instance-wisely with a multimodal router.
 
 :fire: :fire: Update (2025/3/11): We released preliminary code for MoPE for vision-language classification.
-
+:fire: :fire: Update (2025/10/10): MoPE is accepted as regular paper at IEEE Transaction on Multimedia (T-MM)
 ## MoPE Result
 
 ![image](https://github.com/user-attachments/assets/af532d87-9692-4600-967d-f987d6e87ee9)
